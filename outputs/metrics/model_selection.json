@@ -1,0 +1,16 @@
+{
+    "selection_dataset": "validation",
+    "selected_model": "augmented",
+    "models": {
+        "baseline_v2": {
+            "checkpoint": "outputs/checkpoints/baseline_v2_best.pth",
+            "threshold": 0.55,
+            "validation_dice": 0.724
+        },
+        "augmented": {
+            "checkpoint": "outputs/checkpoints/augmented_best.pth",
+            "threshold": 0.3,
+            "validation_dice": 0.7592
+        }
+    }
+}
