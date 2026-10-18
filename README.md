@@ -179,7 +179,7 @@ Clone the repository and navigate to the project directory:
 
 ```powershell
 git clone https://github.com/elinaebadi/polyp-segmentation-unet.git
-cd Polyp-Segmentation
+cd polyp-segmentation-unet
 ```
 
 Create and activate a virtual environment:
